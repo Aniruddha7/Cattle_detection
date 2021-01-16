@@ -33,7 +33,7 @@ train and test txt files and zip it and upload it to Google drive.
 Open Colab and mount the Google drive and start training the model. After every 1000 epochs it will automatically saves the .weights files under backup folder in the runtime
 One the training is done for 3000-4000 epochs, we can stop it and inference on the sample image and calculate mean average precision(mAP) to calculate the performance of the model.
 
-### This is how it looks like once the sample image is infernence after training
+### Inferencing sample image after training
 
 ![](Accuracy.PNG)
 
